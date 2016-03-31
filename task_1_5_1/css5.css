@@ -1,0 +1,132 @@
+body{
+    background-color: #dedede;
+    margin: 0;
+    padding:0;
+}
+.head{
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 20px;
+    width: auto;
+    height: 50px;
+    background-color: #333333;
+}
+
+.daohang{
+    margin-top: 13px;
+    float: right;
+    font-size: 13px;
+}
+.daohang  li{
+    float:left;
+    padding-right: 20px;
+}
+
+.li1>a{
+    color:white;
+    text-decoration: none;
+}
+
+.li2>a{
+    color: darkgray;
+    text-decoration: none;
+}
+
+.neirong{
+    background-color: white;
+    margin-right:440px;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 25px;
+    box-shadow:2px 2px 6px #666666;
+
+}
+.neirong:after{
+    content:'';
+    display: block;
+    width: 0;
+    height: 0;
+    clear: both;
+}
+
+.title1{
+      font-size:17px;
+      color: darkgray;
+  }
+.title2{
+    font-size:13px;
+    color: darkgray;
+}
+.duanluo{
+    text-indent:2em;
+}
+.libiao2{
+    list-style-type: none;
+}
+.picli{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    margin:15px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+    font-size: 13px;
+    text-align: center;
+    list-style:none;
+    float: left;
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    border-color: gray;
+
+}
+th{
+    background-color: black;
+    color: white;
+    border-color: gray;
+}
+td{
+    border-color: gray;
+}
+.biaowei{
+    background-color:gray;
+}
+.celan{
+    background-color: white;
+    height: 650px;
+    width: 350px;
+    margin:25px;
+    padding: 20px;
+    box-shadow:2px 2px 6px #666666;
+    float: right;
+
+}
+
+
+.foot{
+    margin-top: 25px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 6em
+}
+.td{
+    text-align: right;
+    font-size: 13px;
+}
+
+.button{
+    border-radius: 12px;
+    background-color: #3355D0;
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-size: 15px;
+
+}
+
+.wenben{
+    color: gray;
+    font-size: 13px;
+}
