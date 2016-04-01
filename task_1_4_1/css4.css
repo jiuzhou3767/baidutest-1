@@ -8,14 +8,14 @@
     top: 0; left: 0; bottom: 0; right: 0;
 }
 
-div.shangyuan{
+.shangyuan{
     height:50px;
     width:50px;
     background:#fc0;
     border-radius: 0 0 50px 0;
 }
 
-div.xiayuan{
+.xiayuan{
     height:50px;
     width:50px;
     background:#fc0;
