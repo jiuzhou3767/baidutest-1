@@ -1,0 +1,50 @@
+*{
+     padding: 0;  
+     margin: 0;  
+ } 
+ body{
+     font-size: 12px; 
+     font-family:"Arial"; 
+     color:#666; 
+     background: #eeedec; 
+     width:1280;
+     margin-left: auto;
+     margin-right: auto;
+ } 
+ table {  
+     border-collapse: collapse;  
+     border-spacing: 0;  
+ }  
+ fieldset,img,button,input{  
+     border: 0;  
+ }  
+ input{ 
+     font-family:"SimHei","Microsoft Yahei","Arial"; 
+ } 
+ address,caption,cite,code,dfn,em,strong,th,var {  
+     font-weight: normal;  
+     font-style: normal;  
+ }  
+ ol,ul {  
+     list-style: none;  
+ }  
+ caption,th {  
+     text-align: left;  
+ }  
+ h1,h2,h3,h4,h5,h6 {  
+     font-weight: normal;  
+     font-size: 100%;  
+ } 
+ img{ 
+     display: block; 
+ } 
+ .clearfix:after{ 
+     content:""; 
+     display: block; 
+     clear:both; 
+ } 
+ a{ 
+      font-family:"SimHei","Microsoft Yahei","Arial"; 
+     text-decoration: none; 
+     color:#333; 
+ } 
